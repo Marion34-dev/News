@@ -88,3 +88,11 @@ All files            |     100 |      100 |     100 |     100 |
  HeadlineWrapper.jsx |     100 |      100 |     100 |     100 |
 ---------------------|---------|----------|---------|---------|-------------------
 ```
+
+
+### Preview of this React app
+
+![Screenshot 2023-08-19 at 15 29 19](https://github.com/Marion34-dev/News/assets/125993993/ad11f67b-ed65-492c-91ca-bb7dbb776c2c)
+
+If you click on the `More info` button
+![Screenshot 2023-08-19 at 15 29 41](https://github.com/Marion34-dev/News/assets/125993993/4d48a9a8-3309-4657-940e-ae6fab5d2b07)
