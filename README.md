@@ -2,6 +2,12 @@
 
 This JavaScript program contains a single page application built in React that sends requests to the Guardian API to get the headline, thumbnail, original URL as well as article summary data and display them. Vitest is used for testing and V8 for coverage.
 
+
+-------
+## This app has been deployed at the following address:
+https://main--newschallenge.netlify.app
+_______
+
 ### Classic N-tier architecture:
 
 Persistence layer: <br>
